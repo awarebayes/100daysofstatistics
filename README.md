@@ -18,3 +18,5 @@ Hi! I am Mike Watts, a programmer that challenged himself to study statistics fo
 ### Contents
 - [1] **Naive Bayes**: z-scores, bayes theorem
 - [2] **Approximate Bayes Computation**: bayseian inference
+- [3] **MCMC Sampling**: Markov Process, Metropolis Algorithm, Rejection Sampling
+- [4] **PyMC3**: upcoming...
